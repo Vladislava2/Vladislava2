@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vladislava</h1>
 <h3 align="center">SoftUni and TU-Sofia student, Java Beginner and passionate book lover!</h3>
+<img align="right" alt="Coding" width="300" src=<img align="center" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+- SoftUni - Java Basics [https://github.com/Vladislava2/SoftUni---Java-Basics](https://github.com/Vladislava2/SoftUni---Java-Basics)
 
-- 🌱 Java Advanced **SoftUni**
+- SoftUni - Java Fundamentals [https://github.com/Vladislava2/SoftUni---JavaFundamentals](https://github.com/Vladislava2/SoftUni---JavaFundamentals)
+
+- Python tasks - TU Sofia [https://github.com/Vladislava2/Python---task---TUSofia](https://github.com/Vladislava2/Python---task---TUSofia)
 
 - 📫 How to reach me **vl123jordanova02@gmail.com**
 
+- ⚡ Fun fact **MEOW**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vladislava-yordanova-7b16802b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladislava-yordanova-7b16802b8/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
